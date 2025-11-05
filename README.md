@@ -1,6 +1,6 @@
 # cf-profile-linkedinBypasser
 
-Lightweight static page that instantly redirects to a Codeforces profile and supplies an Open Graph preview image so LinkedIn shows a nice card instead of blocking the URL.
+Lightweight static page that instantly redirects to a Codeforces profile and supplies an Open Graph preview image so LinkedIn shows a nice card instead of blocking the URL..
 
 ## What it does
 
